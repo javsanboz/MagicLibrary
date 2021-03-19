@@ -5,6 +5,9 @@
 # Log file
 *.log
 
+# Eclipse config files
+.settings
+
 # BlueJ files
 *.ctxt
 
